@@ -71,6 +71,7 @@ pnpm create tauri-app my-tauri-app --template svelte
 
 Currently supported template presets include:
 
+- `Angular`
 - `vanilla`
 - `vue`
 - `vue-ts`
